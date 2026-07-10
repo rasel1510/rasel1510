@@ -6,7 +6,7 @@
 
 <div align="center">
 
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&pause=1000&color=6C63FF&center=true&vCenter=true&random=false&width=600&lines=Research+Assistant+%40+ELITE+Research+Lab;Machine+Learning+%26+Deep+Learning+Engineer;Computer+Vision+%7C+NLP+%7C+RL+Enthusiast;Building+Intelligent+Systems+from+Scratch)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&pause=1000&color=6C63FF&center=true&vCenter=true&random=false&width=700&lines=Research+Assistant+%40+ELITE+Research+Lab;Computer+Vision+%7C+Multimodal+AI+Researcher;Federated+Learning+%7C+Quantum+ML+Explorer;Building+Intelligent+Systems+from+Scratch)](https://git.io/typing-svg)
 
 </div>
 
@@ -17,10 +17,10 @@
 <img align="right" src="https://github-readme-stats.vercel.app/api?username=rasel1510&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0d1117&title_color=6C63FF&icon_color=6C63FF&text_color=c9d1d9&rank_icon=github" width="420" alt="GitHub Stats"/>
 
 - 🔬 **Research Assistant** at [ELITE Research Lab](https://eliteresearchlab.com), NYC, USA *(Remote · Part-time)*
-- 🎓 **Graduate Student (Masters)** — focused on AI & Systems
-- 🤖 Passionate about **Machine Learning**, **Computer Vision**, **NLP** & **Reinforcement Learning**
-- 💡 Building intelligent systems that bridge research and production
-- 🌱 Currently exploring **LLMs**, **Multimodal AI**, and **Agentic Systems**
+- 🎓 **Graduate Student (Masters)** — focused on AI & Intelligent Systems
+- 🤖 Research interests: **Computer Vision**, **Multimodal AI**, **Federated Learning** & **Quantum Machine Learning**
+- 💡 Building intelligent systems that bridge cutting-edge research and real-world production
+- 🌱 Currently exploring **Foundation Models**, **Privacy-Preserving AI**, and **Quantum-Classical Hybrid Systems**
 - ⚡ Fun fact: I debug neural nets the same way I debug life — one layer at a time
 
 <br clear="right"/>
@@ -43,6 +43,7 @@
 ### 💻 Development
 <p>
   <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black" alt="JavaScript"/>
+  <img src="https://img.shields.io/badge/Next.js-000000?style=for-the-badge&logo=next.js&logoColor=white" alt="Next.js"/>
   <img src="https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=node.js&logoColor=white" alt="Node.js"/>
   <img src="https://img.shields.io/badge/FastAPI-009688?style=for-the-badge&logo=fastapi&logoColor=white" alt="FastAPI"/>
   <img src="https://img.shields.io/badge/Flask-000000?style=for-the-badge&logo=flask&logoColor=white" alt="Flask"/>
@@ -61,30 +62,77 @@
 
 ## 🔭 Current Focus
 
-```python
-class RaselAhmed:
-    def __init__(self):
-        self.name         = "Mohammad Rasel Ahmed"
-        self.role         = "Research Assistant @ ELITE Research Lab, NYC"
-        self.education    = "Graduate Student (Masters)"
-        self.location     = "Remote · Part-time"
+**👤 Name:** Mohammad Rasel Ahmed
 
-    @property
-    def research_interests(self):
-        return [
-            "Computer Vision",
-            "Natural Language Processing (NLP)",
-            "Reinforcement Learning",
-            "Machine Learning & Deep Learning",
-        ]
+**🏢 Role:** Research Assistant @ ELITE Research Lab, New York City, USA *(Remote · Part-time)*
 
-    @property
-    def current_work(self):
-        return {
-            "lab"    : "ELITE Research Lab, New York City, USA",
-            "type"   : "Research Assistant (Remote, Part-time)",
-            "focus"  : "AI / ML Research & Applied Systems",
-        }
+**🎓 Education:** Graduate Student (Masters) — AI & Intelligent Systems
 
-    def motto(self):
-        return "Research · Build · Deploy · Repeat 🚀"
+**🔬 Research Interests:**
+- 🖼️ Computer Vision
+- 🌐 Multimodal AI
+- 🔒 Federated Learning
+- ⚛️ Quantum Machine Learning
+
+**💼 Current Work:**
+- Lab: ELITE Research Lab, NYC, USA
+- Type: Research Assistant (Remote, Part-time)
+- Focus: AI / ML Research & Applied Systems
+
+**💬 Motto:** Research · Build · Deploy · Repeat 🚀
+
+---
+
+## 📊 GitHub Activity
+
+<div align="center">
+  <img src="https://github-readme-streak-stats.herokuapp.com?user=rasel1510&theme=tokyonight&hide_border=true&background=0d1117&ring=6C63FF&fire=6C63FF&currStreakLabel=6C63FF" alt="GitHub Streak" width="49%"/>
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=rasel1510&layout=compact&theme=tokyonight&hide_border=true&bg_color=0d1117&title_color=6C63FF&text_color=c9d1d9&langs_count=8" alt="Top Languages" width="40%"/>
+</div>
+
+<br/>
+
+<div align="center">
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=rasel1510&bg_color=0d1117&color=6C63FF&line=6C63FF&point=ffffff&area=true&hide_border=true" alt="Activity Graph" width="95%"/>
+</div>
+
+---
+
+## 🏆 GitHub Trophies
+
+<div align="center">
+  <img src="https://github-profile-trophy.vercel.app/?username=rasel1510&theme=tokyonight&no-frame=true&no-bg=true&margin-w=6&column=7" alt="Trophies"/>
+</div>
+
+---
+
+## 📌 Highlighted Projects
+
+> *Pin your best repositories on GitHub — they'll appear here automatically.*
+>
+> Focus areas to showcase: **CV models · Multimodal AI · Federated Learning · REST APIs · AWS deployments**
+
+---
+
+## 🤝 Let's Connect
+
+<div align="center">
+
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/rasel1510)
+[![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/rasel1510)
+[![Google Scholar](https://img.shields.io/badge/Google%20Scholar-4285F4?style=for-the-badge&logo=google-scholar&logoColor=white)](https://scholar.google.com/citations?user=WnTBZYsAAAAJ&hl=en)
+[![Email](https://img.shields.io/badge/Email-EA4335?style=for-the-badge&logo=gmail&logoColor=white)](mailto:your-email@example.com)
+
+</div>
+
+---
+
+<div align="center">
+
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0f0c29,50:302b63,100:24243e&height=100&section=footer&animation=fadeIn" alt="Footer"/>
+
+*"The best way to predict the future is to invent it."* — Alan Kay
+
+![Profile Views](https://komarev.com/ghpvc/?username=rasel1510&color=6C63FF&style=flat-square&label=Profile+Views)
+
+</div>
