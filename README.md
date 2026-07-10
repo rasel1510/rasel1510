@@ -16,12 +16,11 @@
 
 <img align="right" src="https://github-readme-stats.vercel.app/api?username=rasel1510&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0d1117&title_color=6C63FF&icon_color=6C63FF&text_color=c9d1d9&rank_icon=github" width="420" alt="GitHub Stats"/>
 
-- 🔬 **Research Assistant** at [ELITE Research Lab](https://eliteresearchlab.com), NYC, USA *(Remote · Part-time)*
+- 🔬 **Research Assistant** at [ELITE Research Lab](https://elitelab.ai/), NYC, USA *(Remote · Part-time)*
 - 🎓 **Graduate Student** — focused on AI & Intelligent Systems
 - 🤖 Research interests: **Computer Vision**, **Multimodal AI**, **Federated Learning** & **Quantum Machine Learning**
 - 💡 Building intelligent systems that bridge cutting-edge research and real-world production
 - 🌱 Currently exploring **Foundation Models**, **Privacy-Preserving AI**, and **Quantum-Classical Hybrid Systems**
-- ⚡ Fun fact: I debug neural nets the same way I debug life — one layer at a time
 
 <br clear="right"/>
 
