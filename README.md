@@ -60,24 +60,15 @@
 
 ---
 
-## 🔭 Current Focus
 
-**👤 Name:** Mohammad Rasel Ahmed
 
-**🏢 Role:** Research Assistant @ ELITE Research Lab, New York City, USA *(Remote · Part-time)*
-
-**🎓 Education:** Graduate Student (Masters) — AI & Intelligent Systems
-
-**🔬 Research Interests:**
+##🔬 Research Interests:**
 - 🖼️ Computer Vision
 - 🌐 Multimodal AI
 - 🔒 Federated Learning
 - ⚛️ Quantum Machine Learning
 
-**💼 Current Work:**
-- Lab: ELITE Research Lab, NYC, USA
-- Type: Research Assistant (Remote, Part-time)
-- Focus: AI / ML Research & Applied Systems
+
 
 **💬 Motto:** Research · Build · Deploy · Repeat 🚀
 
@@ -98,21 +89,6 @@
 
 ---
 
-## 🏆 GitHub Trophies
-
-<div align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=rasel1510&theme=tokyonight&no-frame=true&no-bg=true&margin-w=6&column=7" alt="Trophies"/>
-</div>
-
----
-
-## 📌 Highlighted Projects
-
-> *Pin your best repositories on GitHub — they'll appear here automatically.*
->
-> Focus areas to showcase: **CV models · Multimodal AI · Federated Learning · REST APIs · AWS deployments**
-
----
 
 ## 🤝 Let's Connect
 
