@@ -60,11 +60,6 @@
 
 
 
-##🔬 Research Interests:**
-- 🖼️ Computer Vision
-- 🌐 Multimodal AI
-- 🔒 Federated Learning
-- ⚛️ Quantum Machine Learning
 
 
 
@@ -101,12 +96,4 @@
 
 ---
 
-<div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0f0c29,50:302b63,100:24243e&height=100&section=footer&animation=fadeIn" alt="Footer"/>
-
-*"The best way to predict the future is to invent it."* — Alan Kay
-
-![Profile Views](https://komarev.com/ghpvc/?username=rasel1510&color=6C63FF&style=flat-square&label=Profile+Views)
-
-</div>
